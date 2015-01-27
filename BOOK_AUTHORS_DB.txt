@@ -1,0 +1,217 @@
+book_id	author	type	role
+30059380	Douglas A. Skooq		
+30303370	William Rife		
+30615372	Colin M. Turnbull		
+60287659	Geraldine McCaughrean		
+60393645	Marilu Henner, Lorin Henner		
+60930497	Kenneth R. Miller		
+60959290	Colin Thubron		
+70121430	Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest 		
+70349096	Henry Z. Kister		
+70498415	Robert H. Perry		
+70571864	Gershon J. Shugar		
+71354190	Peter Lane Taylor		
+72127317	Blake Schwendiman		
+72127481	Joel Scambray		
+78823927	Herb Schildt		
+78823978	Thomas Powell		
+120594757	Neal G. Anderson		
+120848104	Les Beletsky		
+125535600	G. M. Phillips, P.J. Taylor		
+130264857	Jan Fair, Sadie Bragg		
+130273635	Bruce Eckel		
+130819735	Jame Laudon		
+134897250	Bernd Bruegge, Alan H. Dutoit 		
+136603904	Kip R. Irvine		
+137566107	Peter Abel		
+138613370	Jeffrey D. Ullman		
+151004714	Claire Messud		
+156007088	John Lewis		
+156007754	Jose Saramago, Giovanni Pontiero		
+198503652	Susan J. Blackmore		
+201379260	Nicolai M. Josuttis		
+201612585	Rajshekhar Sunderraman		
+201615622	Herb Sutter		
+201615711	Lincoln D. Stein		
+201634422	S. Keshav		
+201700735	Bjarne Stroustrup		
+201709287	C. J. Date, Hugh Darwen		
+256228779	Gilbert Churchill, Paul Petter		
+262041642	Marco Dorigo, Marco Colombetti		
+262133822	Faith D. Aluisio		
+262181916	Santiago Ramon y Cajal		
+312135033	Carolly Erickson		
+312965095	Kathleen Kane		
+314129499	Welch Gruhlt		
+316154075	Michael Connelly		
+316695262	George P. Pelecanos		
+316769487	J.D. Salinger		
+345298063	Robert K. Massie		
+345313860	Anne Rice		
+345337662	Anne Rice		
+345350499	Marion Zimmer Bradley		
+345370775	Michael Crichton		
+345377648	Anne Rice		
+345384466	Anne Rice 		
+345417623	Michael Crichton		
+345419758	Mass Market		
+345438310	Robert K. Massie		
+374141231	Ian Wilmut, Colin Tudge, Keith Campbell		
+375400818	Robert Kimball		
+375502025	Tom Brokaw		
+375810609	Jean De Brunhoff		
+385326653	David Almond		
+385479565	Richard Preston		
+387987010	Peter Douglas Ward		
+393314251	Stephen Jay Gould		
+393316009	Andrea Barrett		
+395851580	James Marshall		
+399146652	Lilian Jackson Braun		
+399147020	Nevada Barr		
+399501487	William Gerald Golding		
+425133540	Tom Clancy 		
+425143325	Tom Clancy 		
+425147584	Tom Clancy 		
+439064864	J. K. Rowling		
+439139597	J. K. Rowling		
+439136350	J. K. Rowling		
+440413729	Ruth White		
+446310783	Harper Lee		
+449202496	Erich Maria Remarque		
+449911942	John Updike		
+452272971	Sebastien Japrisot, Linda Coverdale		
+465041752	Frans de Waal		
+471105597	David Halliday, Robert Resnick, Jearl Walker		
+471135615	Robert Zubrin		
+471169196	Kimmel Weygandt		
+471534781	Richard M. Felder		
+471587192	Saturnino L. Salas, Garret J. Etgen, Einar Hille		
+471597619	Gary D. Christian		
+505523078	Ann Lawrence		
+517707950	Laura Esquivel		
+528838180	Ran McNally		
+531164497	Ann O. Squire		
+534368018	Gary J. Bronson		
+534944469	Susanna S. Epp		
+553102370	Michael Crichton		
+553283936	Frederick Forsyth		
+553575538	Kay Hooper		
+553577476	Leslie Lafoy		
+590262540	K. A. Applegate		
+590494368	K. A. Applegate		
+590494414	K. A. Applegate		
+590496379	K. A. Applegate		
+590956159	K. A. Applegate		
+596000278	Larry Wall, Tom Christiansen, Jon Orwant		
+609607995	Edwin Black		
+618056777	Jane Goodall		
+669076791	James Wilson		
+671032658	Stephen King		
+671047310	Vince Flynn		
+671880756	Thomas Hoving		
+672314800	Dave Taylor, James C. Armstrong		
+672319241	Sterling Hughes, Andrei Zmievski		
+674003306	Robert Service		
+684801523	F. Scott Fitzgerald		
+684818701	Maria D. Guarnaschelli		
+684856093	Stephen Covey		
+684869519	Wendy Orange		
+688069711	Gary Selden		
+688127371	James A. Peterson		
+688160999	Janine M. Benyus		
+688161995	Chris Schlesinger		
+688163165	Dennis Lehane		
+689813813	Patricia Mullins		
+689829418	Preiss-Glasser		
+689829531	Ian Falconer		
+689836015	E. L. Konigsburg		
+716736381	Niles Eldredge		
+737800033	John H. Johnson		
+738201960	Christopher Wills		
+738204374	Steven M. Wise		
+743202104	Irma S. Rombauer, Ethan Becker, Marion Becker		
+743215052	John Le Carre		
+750650869	David Howe		
+760049254	Philip Pratt		
+761117199	Ann Byin, Anthony Loew		
+764547161	Tim Converse, Joyce Park		
+767903854	Bill Bryson		
+789305003	Los Angeles County Museum of Art		
+789404257	Various		
+792393651	Jonalthan H. Connell, Sridhar Mahadevan (Editor)		
+805057579	Thomas A. Bass		
+805317554	Ramez Elmasri, Shamkant Navathe		
+807825859	Ann Hawthorne		
+809299674	Adrian Wood		
+810936852	Peter H. Hassrick		
+810961695	Edward Steichen		
+811213668	W. G. Sebald, Michael Hulse		
+811716937	Jerry Predika		
+811826848	The Beatles		
+812093119	Martin Sternstein		
+812520610	Brian Lumley 		
+812520629	Brian Lumley 		
+813527406	Iris Fry		
+821762559	Quinn Taylor Evans		
+838479022	Elizabeth Byleen		
+849323754	Hooman H. Rashidi		
+850668093	Mansour Rahimi (Editor), Waldemar Karwowski (Editor)		
+864426429	Kim Grant		
+870212850	Tom Clancy 		
+874779758	Robert Zubrin		
+882664778	Charles G. Reavis		
+887251714	Jim Cottrell		
+910146691	Allen De Hart		
+911625291	Steve Eckols		
+911625453	Doug Lowe		
+911625593	Steve Eckols		
+911625607	Doug Lowe		
+911625852	Doug Lowe		
+932813739	David Hatcher Childress		
+935039031	Michael Brown		
+935112510	Greg Clarke		
+936184388	Carl Tremblay		
+961470151	Mark Levine		
+961549890	Lenore W. Horowitz		
+962477060	Bill Edwards		
+966625307	Toni Polancy		
+967174805	Carl R. Sam, Jean Stoick		
+967697603	Mercedes Lee		
+1552047210	James Herriot		
+1557044287	Ridley Scott		
+1565922840	Randal Schwartz, Tom Christiansen, Larry Wall		
+1565926099	David Blank-Edelman		
+1565926269	Steven Roman		
+1565927699	Rasmus Lerdorf		
+1566912296	Rick Steves		
+1573225312	Chang-Rae Lee		
+1576572862	Nancy Parent		
+1576573842	Nancy Parent		
+1581950098	Kurt Johnson, Steven L. Coates		
+1584500492	DeLoura, Mark		
+1586480103	Andy Rooney, Tom Brokaw		
+1861003730	Chris Lea, Wankyu Choi, Allan Kent, Ganesh Prasad, Chris Ullman		
+1864364432	John Ashton		
+1878529234	Craig Clunas		
+1884133258	Jamsa Klander		
+1902618351	Mei Lim (Illustrator)		
+1930110006	David Cross		
+014051452X	Richard Cook		
+020163371X	Scott Meyers		
+020165783X	Martin Fowler, Kendall Scott 		
+034538475X	Anne Rice		
+037541164X	Gurcharan Das		
+038071115X	Tracy Kidder		
+039914563X	Tom Clancy		
+042510107X	Tom Clancy 		
+062593460X	Janet Podleski, Greta Podleski, Ted Martin		
+067100767X	V. C. Andrews 		
+067944551X	Geoffrey C. Ward		
+067976674X	Alice Munro		
+076454621X	Kelly L. Murdock		
+083512035x	Liu Zongen		
+093570261x	Roger L. Dekock		
+962593460X	Ryuichi Yoshii		
+195148665	Andy Clark		
+199291144	Richard Dawkins		
+192860925	Richard Dawkins		
